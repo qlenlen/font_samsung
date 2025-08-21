@@ -1668,6 +1668,9 @@
     <family lang="und-Zsye">
         <font weight="400" style="normal">SamsungColorEmoji.ttf</font>
     </family>
+	<family lang="und-Zsye">
+        <font weight="400" style="normal">AppleColorEmoji.ttf</font>
+    </family>
     <family lang="und-Zsye" ignore="true">
         <font weight="400" style="normal">NotoColorEmojiLegacy.ttf</font>
     </family>
