@@ -1610,15 +1610,40 @@
         </font>
     </family>
     <family lang="zh-Hans">
-        <font weight="400" style="normal" index="2" postScriptName="SECCJKjp-Regular">
-             SECCJK-Regular.ttc
+        <font weight="100" style="normal">100.ttf</font>
+        <font weight="200" style="normal">200.ttf</font>
+        <font weight="300" style="normal">300.ttf</font>
+        <font weight="350" style="normal">350.ttf</font>
+        <font weight="400" style="normal">400.ttf</font>
+        <font weight="500" style="normal">500.ttf</font>
+        <font weight="600" style="normal">600.ttf</font>
+        <font weight="700" style="normal">700.ttf</font>
+        <font weight="800" style="normal">800.ttf</font>
+        <font weight="900" style="normal">900.ttf</font>
+    </family>
+    <family lang="zh-Hant,zh-Bopo">
+        <font weight="100" style="normal">100.ttf</font>
+        <font weight="200" style="normal">200.ttf</font>
+        <font weight="300" style="normal">300.ttf</font>
+        <font weight="350" style="normal">350.ttf</font>
+        <font weight="400" style="normal">400.ttf</font>
+        <font weight="500" style="normal">500.ttf</font>
+        <font weight="600" style="normal">600.ttf</font>
+        <font weight="700" style="normal">700.ttf</font>
+        <font weight="800" style="normal">800.ttf</font>
+        <font weight="900" style="normal">900.ttf</font>
+    </family>
+    <!-- 后垫 Android 自带思源黑体，确保 CJK 不缺字 -->
+    <family lang="zh-Hans">
+        <font weight="400" style="normal" index="2" postScriptName="NotoSansCJKjp-Regular">
+      NotoSansCJK-Regular.ttc
         </font>
         <font weight="400" style="normal" index="2" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
         </font>
     </family>
     <family lang="zh-Hant,zh-Bopo">
-        <font weight="400" style="normal" index="3" postScriptName="SECCJKjp-Regular">
-             SECCJK-Regular.ttc
+        <font weight="400" style="normal" index="3" postScriptName="NotoSansCJKjp-Regular">
+      NotoSansCJK-Regular.ttc
         </font>
         <font weight="400" style="normal" index="3" fallbackFor="serif" postScriptName="NotoSerifCJKjp-Regular">NotoSerifCJK-Regular.ttc
         </font>
